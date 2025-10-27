@@ -1,5 +1,6 @@
 # Projects
-////////////////////////////////////////////////////////////////////////////////////////////Advanced Java Projects//////////////////////////////////////////////////////////////////////////////
+#####I have developed Spring Boot projects integrating MySQL, Java, Mail API, HTML, CSS, Bootstrap, JavaScript, and React, with deployment and cloud integration using AWS. These projects also implement advanced Spring Boot concepts such as security, RESTful APIs, and microservice architecture.
+
 
 
 1.https://github.com/arindolghosh44/UrbankartEcommerce.git
