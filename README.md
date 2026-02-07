@@ -16,21 +16,9 @@
 
 
 
-1.https://github.com/arindolghosh44/UrbankartEcommerce.git
-![Screenshot (256)](https://github.com/user-attachments/assets/6eb9dfff-e5c2-43eb-87e6-8e08f0bed543)
-![Screenshot (259)](https://github.com/user-attachments/assets/ec8ae657-de3c-4d2c-9063-dbea038227d2)
-![Screenshot (260)](https://github.com/user-attachments/assets/d1ba6167-90fb-41e1-a755-e50484008cec)
-![Screenshot (261)](https://github.com/user-attachments/assets/7aad0b99-1a72-497d-b20a-54e23014d02f)
-![Screenshot (262)](https://github.com/user-attachments/assets/39b2b7cd-8cef-4593-8a75-95246a8a53e0)
-![Screenshot (263)](https://github.com/user-attachments/assets/d1c3db95-ddbc-4895-bc89-57bccf847ce4)
-![Screenshot (452)](https://github.com/user-attachments/assets/2c71b99c-a81f-4570-876a-33109cf4eef6)
-![Screenshot (453)](https://github.com/user-attachments/assets/56785f2b-1ff4-453a-a3a5-8ccc7cd9c12d)
-![Screenshot (454)](https://github.com/user-attachments/assets/98177f6c-37e5-4236-b7b7-2dadf3050d9b)
-
-
 
 /////////////////////////////////////////////////////////////Spring boot Project BookMyRide/////////////////////////////////////////////////////////////////////
-https://github.com/arindolghosh44/BookMyRide.git
+2. https://github.com/arindolghosh44/BookMyRide.git
 ![Screenshot (465)](https://github.com/user-attachments/assets/c596bea6-5be7-412b-a310-5c924a27009f)
 ![Screenshot (466)](https://github.com/user-attachments/assets/fb64664a-344d-43cc-9bfb-fa6626925e7c)
 ![Screenshot (468)](https://github.com/user-attachments/assets/e462d8c7-e658-40e8-a8eb-50350ca51816)
@@ -40,8 +28,9 @@ https://github.com/arindolghosh44/BookMyRide.git
 ![Screenshot (473)](https://github.com/user-attachments/assets/1cc32665-10e9-4627-819f-ab59b7b74780)
 ![Screenshot (475)](https://github.com/user-attachments/assets/ab8decb2-75db-4143-9dc7-5473312e5be1)
 
-
-
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+###### Generative AI / LangChain Projects
+3.
 
 
 ###### Mini spring boot project
