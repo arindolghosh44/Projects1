@@ -80,7 +80,7 @@ https://github.com/arindolghosh44/BookMyRide.git
 
 
 
-###### jsp  Servlet project
+###### Mini spring boot project
 2.https://github.com/arindolghosh44/ebook.git
 
 ![image](https://github.com/arindolghosh44/Projects1/assets/144908811/6a2e5f4d-3684-4c5f-a1df-0f637170cd3d)
